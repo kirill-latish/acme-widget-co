@@ -1,4 +1,4 @@
-#Acme Widget Co
+# Acme Widget Co
 
 This repository contains realization of next entities:
 
@@ -126,7 +126,7 @@ Basket was tested on proposed set of products and results are in perfect match:
 |B01, B01, R01, R01, R01|     $98.27|
 
 
-#CI/CD:
+# CI/CD:
 
 Unit test weren't implemented yet.
 
